@@ -12,6 +12,9 @@ To modify the configurations of the experiments, please refer to `config.py`. Yo
 python main.py
 ```
 
+### Dataset
+Some datasets are too large and could not be uploaded. For the full dataset, you can find from https://github.com/Hsu1023/SLOG
+
 ### Contact
 For immediate queries or further information, please open an issue or contact `hw6926@wayne.edu` or `yucheny5@illinois.edu`.
 
